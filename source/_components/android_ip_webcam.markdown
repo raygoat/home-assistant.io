@@ -10,7 +10,7 @@ footer: true
 logo: android_ip_webcam.png
 ha_category: Hub
 ha_release: "0.40"
-ha_iot_class: "Local Polling"
+ha_iot_citlass: "Local Polling"
 ---
 
 The `android_ip_webcam` component turns an Android phone into a network camera with multiple viewing options.
@@ -23,7 +23,7 @@ Download [the IP Webcam app](https://play.google.com/store/apps/details?id=com.p
 
 ## {% linkable_title Configuration %}
 
-To set it up the component, add the following information to your `configuration.yaml` file:
+To set up the component, add the following information to your `configuration.yaml` file:
 
 ```yaml
 # Example configuration.yaml entry
